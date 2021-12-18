@@ -1,4 +1,4 @@
-# Windows 11 Browser Clone
+# Windows 11 Dechack
 A small and incomplete clone of the latest version of Window.
 The project was created using React's typescript template, zustand for state management and styled-components for styling and theming the application
 <br />
