@@ -1,4 +1,4 @@
-# Windows 11 Dechack
+# Windows 11 For Hackathon
 A small and incomplete clone of the latest version of Window.
 The project was created using React's typescript template, zustand for state management and styled-components for styling and theming the application
 <br />
@@ -10,4 +10,3 @@ The project was created using React's typescript template, zustand for state man
 <br />
 
 ![Windows 11 Clone Dark Mode](https://imgur.com/S7p24kH.png)
-# DechHAck2021
